@@ -1,0 +1,8 @@
+c:\users\taa\documents\visual studio 2010\Projects\Yilan\Yilan\obj\x86\Debug\Yilan.Form1.resources
+c:\users\taa\documents\visual studio 2010\Projects\Yilan\Yilan\obj\x86\Debug\Yilan.Properties.Resources.resources
+c:\users\taa\documents\visual studio 2010\Projects\Yilan\Yilan\obj\x86\Debug\Yilan.csproj.GenerateResource.Cache
+c:\users\taa\documents\visual studio 2010\Projects\Yilan\Yilan\bin\Debug\Yilan.exe
+c:\users\taa\documents\visual studio 2010\Projects\Yilan\Yilan\bin\Debug\Yilan.pdb
+c:\users\taa\documents\visual studio 2010\Projects\Yilan\Yilan\obj\x86\Debug\Yilan.exe
+c:\users\taa\documents\visual studio 2010\Projects\Yilan\Yilan\obj\x86\Debug\Yilan.pdb
+C:\Users\taa\Documents\Visual Studio 2010\Projects\Yilan\Yilan\obj\x86\Debug\Yilan.csprojResolveAssemblyReference.cache
