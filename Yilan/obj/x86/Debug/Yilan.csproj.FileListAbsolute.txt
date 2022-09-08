@@ -6,3 +6,14 @@ c:\users\taa\documents\visual studio 2010\Projects\Yilan\Yilan\bin\Debug\Yilan.p
 c:\users\taa\documents\visual studio 2010\Projects\Yilan\Yilan\obj\x86\Debug\Yilan.exe
 c:\users\taa\documents\visual studio 2010\Projects\Yilan\Yilan\obj\x86\Debug\Yilan.pdb
 C:\Users\taa\Documents\Visual Studio 2010\Projects\Yilan\Yilan\obj\x86\Debug\Yilan.csprojResolveAssemblyReference.cache
+C:\Users\mevsa\Desktop\yilan-oyunu-main\Yilan\bin\Debug\Yilan.exe.config
+C:\Users\mevsa\Desktop\yilan-oyunu-main\Yilan\bin\Debug\Yilan.exe
+C:\Users\mevsa\Desktop\yilan-oyunu-main\Yilan\bin\Debug\Yilan.pdb
+C:\Users\mevsa\Desktop\yilan-oyunu-main\Yilan\obj\x86\Debug\Yilan.csproj.AssemblyReference.cache
+C:\Users\mevsa\Desktop\yilan-oyunu-main\Yilan\obj\x86\Debug\Yilan.csproj.SuggestedBindingRedirects.cache
+C:\Users\mevsa\Desktop\yilan-oyunu-main\Yilan\obj\x86\Debug\Yilan.Form1.resources
+C:\Users\mevsa\Desktop\yilan-oyunu-main\Yilan\obj\x86\Debug\Yilan.Properties.Resources.resources
+C:\Users\mevsa\Desktop\yilan-oyunu-main\Yilan\obj\x86\Debug\Yilan.csproj.GenerateResource.cache
+C:\Users\mevsa\Desktop\yilan-oyunu-main\Yilan\obj\x86\Debug\Yilan.csproj.CoreCompileInputs.cache
+C:\Users\mevsa\Desktop\yilan-oyunu-main\Yilan\obj\x86\Debug\Yilan.exe
+C:\Users\mevsa\Desktop\yilan-oyunu-main\Yilan\obj\x86\Debug\Yilan.pdb

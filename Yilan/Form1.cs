@@ -149,7 +149,7 @@ namespace Yilan
         private void Yenildi()
         {
             timer1.Stop();
-            MessageBox.Show("Oyun Bitti.Yenildin");
+            MessageBox.Show("Oyun Bitti.Yenildin !");
             button1.Enabled = true;
         }
 
